@@ -120,7 +120,6 @@ struct CardDetailsView:View {
                     .padding(.leading,30)
                     .lineLimit(6)
                     .multilineTextAlignment(.leading)
-//                    .background(Color.white)
 //                    .cornerRadius(10)
 //                    .shadow(radius: 10)
                 Spacer()
